@@ -11,4 +11,3 @@ puts "FizzBuzz"
 else
 puts number
 end
-end
